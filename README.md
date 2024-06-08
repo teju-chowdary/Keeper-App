@@ -1,4 +1,6 @@
 # Keeper-App
+![image](https://github.com/teju-chowdary/Keeper-App/assets/109237602/8b2719d1-7877-4988-8495-a0a46996d446)
+
  
 ## Description
 
@@ -62,10 +64,3 @@ Keeper-App is a simple note-taking application inspired by Google Keep. It allow
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to modify this as needed to better fit your project specifics!
